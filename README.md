@@ -1,6 +1,9 @@
 # MLM Salesman Problem
 
 
-A raw javascript simulated solution. 
+A raw javascript simulated solution.  
 
-Website is password protected currently. PW: webpay@123
+Website: https://salesmen.netlify.com
+
+Website is PW protected. 
+
